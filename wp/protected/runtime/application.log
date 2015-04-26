@@ -1,0 +1,18 @@
+2015/04/20 17:34:39 [info] [application] {"User-Agent":"Mozilla\/4.0","Accept":"*\/*","Host":"656615066lkl.vicp.cc","Pragma":"no-cache"}
+in D:\wamp\www\wp\protected\util\LogUtil.php (6)
+in D:\wamp\www\wp\protected\controllers\HomeController.php (11)
+in D:\wamp\www\wp\index.php (15)
+2015/04/20 17:34:39 [info] [application] post data is=<xml><ToUserName><![CDATA[gh_4903e71c415d]]></ToUserName>
+<FromUserName><![CDATA[oND18tzwvvJwe4VKMl0PA1E9U9bI]]></FromUserName>
+<CreateTime>1429551237</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈哈]]></Content>
+<MsgId>6139875811077054306</MsgId>
+</xml>
+in D:\wamp\www\wp\protected\controllers\HomeController.php (31)
+in D:\wamp\www\wp\protected\controllers\HomeController.php (22)
+in D:\wamp\www\wp\index.php (15)
+2015/04/20 17:34:39 [info] [application] 存储的值为0
+in D:\wamp\www\wp\protected\util\WechatUtil.php (25)
+in D:\wamp\www\wp\protected\controllers\HomeController.php (50)
+in D:\wamp\www\wp\protected\controllers\HomeController.php (22)
